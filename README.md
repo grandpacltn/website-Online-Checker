@@ -1,6 +1,4 @@
-Here’s a perfect README.md for your Website Status Checker project:
-
-# 🌐 Website Status Checker
+ 🌐 Website Status Checker
 
 A simple Python script that checks if a website is online or down using the `requests` library.
 
